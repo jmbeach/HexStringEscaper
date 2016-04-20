@@ -2,6 +2,10 @@
 
 Escapes hex strings from \"FF\" format to \"\\xFF\" hex equivalent. Useful for dynamically creating hex values (such as for a rgb value).
 
+## Install
+
+`npm install hexstringescaper`
+
 ## Usage
 
 ```js

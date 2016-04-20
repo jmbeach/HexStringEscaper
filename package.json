@@ -12,7 +12,7 @@
     "escape"
   ],
   "author": "Jared Beach",
-  "license": "MIT"
+  "license": "MIT",
 	"repository" :
   { "type" : "git"
   , "url" : "https://github.com/jmbeach/HexStringEscaper.git"
